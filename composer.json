@@ -15,7 +15,7 @@
 		"nette/di": "^2.4 || ~v3.0",
 		"nette/forms": "^2.4 || ~v3.0",
 		"nette/http": "^2.4 || ~v3.0",
-		"nette/utils": "^2.4 || ~v3.2",
+		"nette/utils": "^2.4 || ~v3.2 || ^4.0",
 		"dg/ftp-php": "~1.2"
 	},
 	"require-dev": {
